@@ -1,6 +1,7 @@
 package main
 
-import "fmt"
+import ("fmt"
+	"time")
 
 func main(){
 	var a int = 10
@@ -93,5 +94,4 @@ func main(){
 
         //fmt.Println("default go...")
     }
-}
 }
